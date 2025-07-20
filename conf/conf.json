@@ -1,0 +1,27 @@
+{
+    "embedding_model_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "embedding_model_api_key": "sk-ce56438938124685bbea4c710d45062a",
+    "embedding_model_name": "text-embedding-v3",
+    "embedding_dimensions": 768,
+
+
+
+
+    "chat_model_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "chat_model_api_key": "sk-ce56438938124685bbea4c710d45062a",
+    "chat_model_name": "qwen-max",
+
+
+
+
+
+    "other_chat_model_url": "https://spark-api-open.xf-yun.com/v2/",
+    "other_chat_model_api_key": "tmaKcsSEmsWCVgTIpPBn:zPnURCCKtGdFAWSceMmb",
+    "other_chat_model_name": "x1",
+    "headers": {
+        "content-type": "application/json",
+        "Authorization": "tmaKcsSEmsWCVgTIpPBn:zPnURCCKtGdFAWSceMmb"
+    }
+
+    
+}
